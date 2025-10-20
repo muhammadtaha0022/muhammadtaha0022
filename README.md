@@ -51,10 +51,18 @@
 
 | 🚀 Project | 📝 Description | 🔗 Link |
 |:-----------|:-----------------|:--------|
-| **E-commerce Backend System** | Full backend system with product, cart, order, and payment integration using Django + DRF. | [🔗 View Repo](https://github.com/muhammadtaha0022) |
-| **To-Do App** | Simple CRUD Django app for task management. | [🔗 View Repo](https://github.com/muhammadtaha0022) |
-| **Weather App** | Weather tracking app using API integration in Django. | [🔗 View Repo](https://github.com/muhammadtaha0022) |
-| **Contact Form API** | Contact form API that saves data and sends email notifications. | [🔗 View Repo](https://github.com/muhammadtaha0022) |
+| **Recipe App API** | Django REST Framework–based recipe API with authentication & CRUD operations. | [🔗 View Repo](https://github.com/muhammadtaha0022/recipe-app-api) |
+| **Student Management System** | Django-based student data management with admin panel & CRUD. | [🔗 View Repo](https://github.com/muhammadtaha0022/Student-Management-System) |
+| **Business Card Website** | Personal portfolio & business card web design using HTML/CSS. | [🔗 View Repo](https://github.com/muhammadtaha0022/business-card) |
+| **Django Weather App** | Real-time weather tracking using API integration. | [🔗 View Repo](https://github.com/muhammadtaha0022/django-weather-app) |
+| **E-Shop** | First e-commerce backend using Django & DRF. | [🔗 View Repo](https://github.com/muhammadtaha0022/e_shop) |
+| **TODO App** | Simple Django To-Do app with CRUD functionality. | [🔗 View Repo](https://github.com/muhammadtaha0022/TODO-app) |
+| **Portfolio Frontend** | Personal portfolio frontend using HTML, CSS, and JS. | [🔗 View Repo](https://github.com/muhammadtaha0022/PortFolio-frontend) |
+| **GreatKArt** | Modern e-commerce project built with Django. | [🔗 View Repo](https://github.com/muhammadtaha0022/GreatKArt) |
+| **Advance E-Shop** | Advanced e-commerce backend with Django REST API. | [🔗 View Repo](https://github.com/muhammadtaha0022/advance_e_shop) |
+| **Online Course Sell** | Django-based online course selling platform. | [🔗 View Repo](https://github.com/muhammadtaha0022/online_course_sell) |
+| **Blockquote UI** | CSS-based UI component for elegant blockquotes. | [🔗 View Repo](https://github.com/muhammadtaha0022/Blockquote) |
+| **Day and Night Mode** | Simple theme switcher using HTML, CSS, JS. | [🔗 View Repo](https://github.com/muhammadtaha0022/Day-and-Night-Mode) |
 
 ---
 
